@@ -1,9 +1,9 @@
-name: 🌐 Update Proxyip
+name: 🌐 Update Proxy IP Status
 
 on:
-  # Schedule workflow to run every 3 days at midnight
+  # Schedule workflow to run every 5 days at midnight
   schedule:
-    - cron: '0 0 */3 * *'
+    - cron: '0 0 */5 * *'
 
   # Allow manual trigger of the workflow
   workflow_dispatch:
@@ -34,7 +34,7 @@ jobs:
     - name: 🔄 Update Proxy Status
       env:
         IP_FILE: './cek/file.txt'
-        API_URL: 'https://api-check.web.id/check?ip={ip}:{port}' # Proxy check API URL
+        API_URL: 'https://api.jas.biz.id/check?ip={ip}:{port}' # Proxy check API URL
       run: |
         python ./cek/update_proxy_status.py
 
