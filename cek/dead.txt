@@ -1,0 +1,119 @@
+94.177.8.53,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.40,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.43,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.3,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.50,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.26,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.23,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.43,131,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.40,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.3,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.8,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.19,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.43,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.11,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.54,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.2,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.10,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.34,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.19,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.23,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.54,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.31,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.2,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.34,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.4,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.3,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.19,131,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.54,131,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.62,131,AT,Alwyzon a trading name of Hohl IT e U
+85.236.242.36,443,AT,Cable Customers
+94.177.8.48,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.8,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.4,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.60,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.10,131,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.48,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.9,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.5,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.21,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.26,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.19,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.2,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.16,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.11,138,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.21,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.4,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.19,444,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.21,131,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.40,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.21,137,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.11,443,AT,Alwyzon a trading name of Hohl IT e U
+94.177.8.2,131,AT,Alwyzon a trading name of Hohl IT e U
+192.46.221.238,443,AU,Akamai Connected Cloud Linode
+141.98.233.80,8443,BE,GLOBAL CONNECTIVITY SOLUTIONS LLP
+45.129.186.120,443,BY,AdminVPS OOO
+194.87.148.148,2053,DE,ALEKSEI FEDOROV PR KRUSEVAC
+89.58.56.175,443,DE,netcup GmbH
+64.188.79.34,443,DE,1Cent Host
+194.87.148.148,8443,DE,ALEKSEI FEDOROV PR KRUSEVAC
+80.240.18.157,8443,DE,The Constant Company LLC
+185.161.251.241,8443,DE,GLOBAL CONNECTIVITY SOLUTIONS LLP
+91.99.167.220,2053,DE,Hetzner Online GmbH
+85.208.139.98,8443,DE,HOST TELECOM LTD
+45.77.55.86,8443,DE,Vultr Holdings LLC
+45.32.153.123,8443,DE,Vultr Holdings LLC
+89.169.53.53,443,DE,Aeza International LTD
+87.251.87.111,443,DE,nuxt cloud hosting provider
+193.233.201.102,8443,EE,BlueVPS OU
+45.129.199.161,2053,EE,BlueVPS OU
+176.124.32.95,8443,EE,BlueVPS OU
+65.109.134.63,8443,FI,Cloudflare Inc
+198.105.124.193,443,FI,POWER SERVERS ROLE ORG
+109.120.151.151,8443,FI,Aeza International LTD
+194.53.54.92,8443,FI,PSERVERS Enterprise Network
+91.103.140.166,2053,FI,Aeza International LTD
+45.156.27.139,2053,FR,as56971 network
+38.60.196.214,443,GB,Kaopu Cloud HK Limited
+77.91.101.83,2053,GB,WorkTitans B V
+95.164.18.202,8443,GB,WorkTitans B V
+8.212.27.131,443,HK,Alibaba Cloud Singapore Private Limited
+222.113.18.207,32773,KR,Korea Telecom
+222.113.18.207,10090,KR,Korea Telecom
+86.104.73.16,443,KZ,WorkTitans B V
+146.56.162.25,443,KR,Oracle Corporation Global software solutions California USA
+62.192.174.170,8443,LV,SERVA ONE LTD
+62.192.174.214,443,LV,SERVA ONE LTD
+45.142.215.242,8443,LV,LIR Limited
+5.34.211.29,8443,LV,SIA VEESP
+38.60.193.247,13300,MY,Kaopu Cloud HK Limited
+45.159.51.121,32199,MY,Kaopu Cloud HK Limited
+37.252.13.98,8443,NL,IROKO Networks Corporation
+188.116.24.56,2053,NL,IROKO Networks Corporation
+77.105.137.63,8443,NL,Amsterdam Netherlands
+77.105.137.63,2053,NL,Amsterdam Netherlands
+195.54.175.213,2053,NL,IROKO Networks Corporation
+81.22.132.243,443,NL,Internet Utilities Europe and Asia Limited
+138.124.3.156,443,NL,Baykov Ilya Sergeevich
+176.222.52.253,2053,NL,HOSTKEY B V
+212.193.1.208,443,NL,Baxet Group Inc
+2.59.183.181,443,NL,SERVA ONE LTD
+149.18.36.150,443,NL,Cogent Communications LLC
+2.56.125.59,443,PL,WorkTitans B V
+149.57.146.2,443,NL,Cogent Communications LLC
+195.58.54.223,8443,RU,MT FINANCE LLC
+45.80.231.240,8443,SE,Aeza International LTD
+83.147.254.43,443,SE,Aeza International LTD
+188.126.76.88,443,SE,ISPIRIA Networks Ltd
+93.177.103.176,443,TR,HostLAB Bilisim Teknolojileri A S
+194.87.39.174,2053,TR,Reliable Communications s r o
+23.148.152.46,443,US,Foothills Broadband LLC
+107.175.70.245,443,US,HostPapa
+23.94.25.53,443,US,RackNerd LLC
+107.173.86.106,443,US,HostPapa
+197.221.237.255,443,ZW,Serial Link for TelOne HQ
+197.221.234.149,443,ZW,Serial Link for TelOne HQ
+197.221.238.15,443,ZW,Serial Link for TelOne HQ
+41.220.16.209,443,ZW,Serial Link for TelOne HQ
+197.221.240.240,443,ZW,Serial Link for TelOne HQ
+197.221.240.180,443,ZW,Serial Link for TelOne HQ
