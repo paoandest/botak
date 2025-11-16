@@ -1,9 +1,12 @@
+bantu rubah biar 5 hari sekali scan otomatis
+
+
 name: 🌐 Update Proxy IP Status
 
 on:
-  # Schedule workflow to run every 5 days at midnight
+  # Schedule workflow to run every 3 days at midnight
   schedule:
-    - cron: '0 0 */5 * *'
+    - cron: '0 0 */3 * *'
 
   # Allow manual trigger of the workflow
   workflow_dispatch:
