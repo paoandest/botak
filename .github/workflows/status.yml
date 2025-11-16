@@ -1,7 +1,4 @@
-bantu rubah biar 5 hari sekali scan otomatis
-
-
-name: 🌐 Update Proxy IP Status
+name: 🌐 Update Proxyip
 
 on:
   # Schedule workflow to run every 3 days at midnight
